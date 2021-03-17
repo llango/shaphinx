@@ -26,7 +26,7 @@ Shaphinx
 --------
 
 * 主题比较清新，参考gitbook等主题。
-
+* 可以直接使用 `pip install shaphinx ` 进行安装，安装完成后在的文档目录下的 `theme.conf` 或`config.py` 设置  `html_theme = "shaphinx"` 就可以了。
 名单
 -------
 
