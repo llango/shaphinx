@@ -20,7 +20,7 @@ Shaphinx
 
 
 * 免费软件: MIT license
-* 文档: https://shaphinx.readthedocs.io.
+* 文档: https://shaphinx.readthedocs.io 。 文档暂时不能用。
 
 特征
 --------
@@ -31,6 +31,7 @@ Shaphinx
 -------
 
 该包使用 Cookiecutter_ 和 `audreyr/cookiecutter-pypackage`_ 项目模板创建.
+使用了 check-manifest 进行 MANIFEST.in 检测
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
