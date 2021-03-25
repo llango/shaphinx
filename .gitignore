@@ -5,3 +5,4 @@ yarn-error.log
 dist
 build
 yarn.locked
+docs/_build
