@@ -51,6 +51,7 @@
         </label>
         {% block content %}{{ body }}{% endblock %}
       </article>
+      
       <footer>
         {% block footer %}
         <div class="related-pages">
@@ -120,6 +121,7 @@
         {% endblock footer %}
       </footer>
     </div>
+    
     <aside class="toc-drawer{% if shaphinx_hide_toc %} no-toc{% endif %}">
       {% block right_sidebar %}
       {% if not shaphinx_hide_toc %}
