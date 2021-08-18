@@ -35,3 +35,10 @@ Shaphinx
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+
+
+效果图
+--------
+
+.. image:: ./screen/jietu.png
+        :alt: 主题效果图
